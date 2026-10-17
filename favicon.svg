@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="47.2" fill="#263844"/>
+  <circle cx="50" cy="50" r="46.1" stroke="#b69a6b" stroke-width="1.2"/>
+  <circle cx="50" cy="50" r="42.8" stroke="#f6f3ed" stroke-width="1.25" opacity=".94"/>
+
+  <path
+    d="M31 22h20.3c12.1 0 18.6 5.8 18.6 15.1 0 5.6-2.8 9.8-7.9 12.2 7.1 2 11.3 6.7 11.3 13.6 0 10.3-7.4 16.1-20.2 16.1H31V22Z"
+    fill="#fffefd"
+  />
+  <path d="M44.1 31h7.1c5.2 0 7.9 1.9 7.9 6 0 3.8-2.5 6.2-7.4 6.2h-7.6V31Z" fill="#a9bdc7"/>
+  <path d="M44.1 54.4h8.5c6.2 0 9.4 2.2 9.4 6.6s-3 6.8-9 6.8h-8.9V54.4Z" fill="#263844"/>
+
+  <circle cx="23.2" cy="54.1" r="1.5" fill="#b69a6b"/>
+  <path d="M23.8 54c12.8-6.2 23.7-5.6 31.4 2.4 7.1 7.5 8.7 19.2 18 17.7 4.2-.7 7.5-4.7 9.8-10.1" stroke="#b69a6b" stroke-width="2.1" stroke-linecap="round"/>
+  <g transform="translate(72 51) scale(.62) rotate(45 12 12)" fill="#b69a6b">
+    <path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5L21 16Z"/>
+  </g>
+</svg>
